@@ -8,9 +8,7 @@
 
 import UIKit
 import ICONKit
-import Result
 import BigInt
-
 class ViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!

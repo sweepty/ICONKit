@@ -6,7 +6,6 @@ def import_pods
   # Pods for ICONKit
   pod 'BigInt'
   pod 'secp256k1_ios', :modular_headers => true
-  pod 'Result'
   pod 'CryptoSwift', '~> 0.11.0'
   pod 'scrypt', :git => 'https://github.com/a1ahn/scrypt-cryptoswift.git'
 end
